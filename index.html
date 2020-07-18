@@ -3,8 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Naming system.</title>
+    <link rel="stylesheet" href="./css/bootstrap.css">
+    <link rel="stylesheet" href="styles.css">
     <script src="./js/scripts.js"></script>
+    <title>Naming system.</title>
 </head>
 <body>
     <header id="Name">
@@ -15,7 +17,24 @@
             <h3>Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born.<br>These "day names" have further meanings concerning the soul and character of the person. 
             <br>Try out below and see how you would have been called .</h3>
         </p>
-
+     <div class="form-group">
+            <label for="formGroupExampleInput">Year</label>
+            <input type="text" class="form-control" id="year" placeholder="Enter year">
+          </div>
+        <div class="form-group">
+            <label for="formGroupExampleInput2">Month</label>
+            <input type="text" class="form-control" id="month" placeholder="Enter Month">
+          </div>
+        <div class="form-group">
+            <label for="formGroupExampleInput2">Date</label>
+            <input type="text" class="form-control" id="Date" placeholder="Enter Date">
+          </div>
+    <div class="one">
+            <label>Gender:</label>
+            <input type="radio" id="gender" name="gender" value="male">Male
+            <input type="radio" id="gender" name="gender" value="female">Female<br>
+            <input type="submit" onclick="giveAkanName()" value="Submit">
+          </div>
     </div>
 </body>
 </html>
