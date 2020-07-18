@@ -1,3 +1,13 @@
 #Name{
     text-align: center;
 }
+#contacts>img{
+    float: left;
+    border: black solid;
+    margin-top: 20px;
+    margin-left: 25px;
+  }
+  #contacts>p{
+    display: inline-flex;
+    justify-content: space-evenly;
+    margin: 10px;
