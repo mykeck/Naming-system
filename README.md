@@ -1,6 +1,6 @@
 
 # AKAN NAMING SYSTEM
-## A website that generates akan names, 14/02/2019
+##  website that generates akan names
 
 ## By Mike Collins Kiragu
 
