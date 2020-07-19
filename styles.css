@@ -1,13 +1,18 @@
 #Name{
     text-align: center;
 }
-#contacts>img{
-    float: left;
-    border: black solid;
-    margin-top: 20px;
-    margin-left: 25px;
+.container{
+    background-color: coral;
+}
+#contacts {
+    background-color: #9baf29;
+    padding: 20px;
+    color: white;
+    align-items: center;
+    border: 5px solid black;
+    margin: 10px; 
   }
   #contacts>p{
     display: inline-flex;
     justify-content: space-evenly;
-    margin: 10px;
+    margin: 10px ;

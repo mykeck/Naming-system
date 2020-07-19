@@ -11,7 +11,7 @@ function akanName(){
     // var month=11;
     // var year=2001;
     // var gender="male";
-    var date = new date(year +"/" + month + "/"+day);
+    var date = new Date(year +"/" + month + "/"+day);
     var dayBorn = date.getDay();
     var akanName;
     var validate = (year > 0 && (month >0 && month <=12) && (day > 0 && day <= 31));
