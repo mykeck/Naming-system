@@ -1,11 +1,14 @@
+body{
+    background-color: #daad86;
+}
 #Name{
     text-align: center;
 }
 .container{
-    background-color: coral;
+    background-color: #659dbd;
 }
 #contacts {
-    background-color: #9baf29;
+    background-color: #bc986a;
     padding: 20px;
     color: white;
     align-items: center;
