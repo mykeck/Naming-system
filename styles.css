@@ -1,21 +1,22 @@
 body{
-    background-color: #daad86;
+    background-color: #ffcb9a;
 }
 #Name{
     text-align: center;
 }
 .container{
-    background-color: #659dbd;
+    background-color: #116466;
+    color: white;
+}
+.one{
+    text-align: center;
 }
 #contacts {
     background-color: #bc986a;
-    padding: 20px;
-    color: white;
     align-items: center;
-    border: 5px solid black;
     margin: 10px; 
   }
   #contacts>p{
     display: inline-flex;
     justify-content: space-evenly;
-    margin: 10px ;
+    
