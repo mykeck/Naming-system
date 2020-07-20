@@ -1,8 +1,8 @@
 
 # AKAN NAMING SYSTEM
-##  website that generates akan names
+ website that generates akan names
 
-## By Mike Collins Kiragu
+ By Mike Collins Kiragu
 
 ## Description
 This is a names generator website that asks user to input their date of birth and year of birth and then calculates the day they were born and uses the day to output their names according to their gender if they were born in Ghana.[https://mykeck.github.io/Naming-system/]
